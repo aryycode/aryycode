@@ -76,16 +76,10 @@ Hi there! I'm a passionate developer who loves creating elegant solutions to com
 
 ### 🎯 Profile Visits
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=aryycode.aryycode)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Faryycode%2Faryycode&labelColor=%23697689&countColor=%2337d67a&style=flat&labelStyle=upper)
 
 ### 🎵 Currently Listening To
 
 [![Spotify](https://novatorem-nu-seven.vercel.app/api/spotify)](https://open.spotify.com/user/youruserid)
 
-</div>
-
----
-
-<div align="center">
-⭐️ From <a href="https://github.com/aryycode">aryycode</a> with ❤️
 </div>
